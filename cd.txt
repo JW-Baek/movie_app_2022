@@ -1,0 +1,1 @@
+cd D:\학원\react\movie_app_2022
